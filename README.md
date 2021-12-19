@@ -2,7 +2,7 @@
   <img src="./banner.png" />
 </p>
 <h1 align="center">Hi, I'm Feyzan 👋</h1>
-<p align="center">I'm an enthusiastic engineer with a passion about the art of code.</p>
+<p align="center">Welcome to my GitHub profile.</p>
 <p align="left">
 </p>
 <br/>
